@@ -36,6 +36,14 @@ FASE 1 — Per ciascun dominio scelto, esplora (in inglese):
 4. Meta Ads Library — parole ampie del dominio, chi pubblicizza da tempo e cos'altro vende
 
 Escludi sempre: diete, workout generici, planner dell'anno, checklist generiche.
+Escludi anche: categorie mediche o di salute particolari (malattie croniche, menopausa,
+tracker sintomi e simili) e template Canva per social o template Notion generici. Questi
+si considerano SOLO se emerge un caso d'uso davvero particolare e documentato; altrimenti
+si saltano.
+
+FONTI: per Google Trends e YouTube usa WebSearch/WebFetch sulle pagine pubbliche
+(trends.google.com, youtube.com); dove i dati non sono leggibili, dichiaralo nel report
+invece di inventare numeri.
 
 FASE 2 — Restituisci 10-15 nicchie SPECIFICHE (pubblico + contesto preciso), ciascuna con:
 nome preciso, dominio/fonte di origine, perché sembra fertile, segnale di saturazione
